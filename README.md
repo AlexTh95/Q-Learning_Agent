@@ -1,6 +1,8 @@
 # Q-Learning_Agent
 Q-Learning agent on a Grid World with moving target
 
+Project of the class "Autonomous Agents" from Electrical and Computer Engineering Department of Technical University of Crete.
+
 
 
 **The graphic environment was found on the link : http://horstmann.com/gridworld/
