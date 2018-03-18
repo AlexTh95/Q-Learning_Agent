@@ -23,3 +23,5 @@ The actors of the environment werer slightly modified to fit the q-learning algo
 
 -The obstacles (blocks that the agent is not allowed to move into) are teh class "Rock".
 
+**The class "QLearnignBug" contains the agent's behaviour
+The class "QLearnignBugRun" is the main class and contains the initialization of the actors' locations.
