@@ -15,7 +15,7 @@ Images created by Chris Renard, a student at the School for the Talented and Gif
 The purpose of the project is the implementation of a Q-Learning agent on a Grid World environment given the target's ability to move (relatively slow).
 
 
-The actors of the environment werer slightly modified to fit the q-learning algorithm purposes:
+The actors of the environment were slightly modified to fit the q-learning algorithm purposes:
 
 -The Q-learning agent is the class "Bug".
 
